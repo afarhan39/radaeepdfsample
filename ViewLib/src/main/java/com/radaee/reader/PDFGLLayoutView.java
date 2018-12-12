@@ -154,4 +154,8 @@ public class PDFGLLayoutView extends RelativeLayout implements ILayoutView {
     public void PDFSetBGColor(int color) {
         m_view.PDFSetBGColor(color);
     }
+
+    public void PDFAddAnnotRect(float x, float y, float width, float height, int p) {
+        m_view.PDFAddAnnotRect(x, y, width, height, p);
+    }
 }

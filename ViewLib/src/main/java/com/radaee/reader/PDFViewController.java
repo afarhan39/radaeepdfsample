@@ -359,6 +359,10 @@ public class PDFViewController implements OnClickListener, SeekBar.OnSeekBarChan
 	}
 	public void OnBlankTapped()
 	{
+		m_view.PDFAddAnnotRect(0, 0, 300, 50, 2);
+		m_view.PDFAddAnnotRect(100, 100, 300, 50, 1);
+		m_view.PDFAddAnnotRect(400, 400, 100, 100, 0);
+
 		switch(m_bar_status)
 		{
 		case BAR_NONE:

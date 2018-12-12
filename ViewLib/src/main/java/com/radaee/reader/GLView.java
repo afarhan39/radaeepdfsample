@@ -1889,4 +1889,21 @@ public class GLView extends GLSurfaceView implements GLCanvas.CanvasListener
             if (page != null) m_layout.gl_render(page);
         }
     }
+
+    public void PDFAddAnnotRect(float x, float y, float width, float height, int p) {
+        GLPage vpage = m_layout.vGetPage(p);
+        Page page = m_doc.GetPage(p);
+
+        page.ObjsStart();
+
+        float rect[] = new float[4];
+        rect[0] = x; //left
+        rect[1] = y; //top
+        rect[2] = x + width; //right
+        rect[3] = y + height; //bottom
+
+        page.AddAnnotRect(rect, vpage.ToPDFSize(Global.rect_annot_width), Global.rect_annot_color, Global.rect_annot_fill_color);
+        page.Close();
+        m_layout.gl_render(vpage);
+    }
 }
