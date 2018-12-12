@@ -1,0 +1,151 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+    android:padding="5dp">
+
+    <Button
+        android:id="@+id/btn_file"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/browse_open_file" />
+		
+	<Button
+        android:id="@+id/btn_about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:text="@string/about" />
+
+    <Button
+        android:id="@+id/btn_glfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_file"
+        android:text="Browse And Open File(OpenGL)" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_asset"
+        android:layout_below="@+id/btn_glfile"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btn_pager"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+			android:layout_alignParentLeft="true"
+            android:text="@string/view_pager" />
+
+        <Button
+            android:id="@+id/btn_asset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+			android:layout_alignParentLeft="true"
+            android:text="@string/open_asset" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_sdcard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/layout_asset"
+        android:text="@string/open_sdcard" />
+
+    <Button
+        android:id="@+id/btn_http"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/btn_sdcard"
+        android:text="@string/open_http" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_disp"
+        android:layout_below="@+id/btn_http"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/using_RGB_565"
+            android:id="@+id/btn_565"
+			android:layout_alignParentLeft="true"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/using_RGB_4444"
+            android:id="@+id/btn_4444"
+			android:layout_alignParentLeft="true"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_gl"
+        android:layout_below="@+id/layout_disp"
+        android:orientation="horizontal">
+        <Button
+			android:id="@+id/btn_gl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+			android:layout_alignParentLeft="true"
+            android:text="@string/simple_open_gl"
+            android:layout_below="@+id/layout_disp"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/curl_pages"
+            android:id="@+id/btn_curl"
+			android:layout_below="@+id/btn_glfile"
+			android:layout_alignParentLeft="true"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_adv"
+        android:layout_below="@+id/layout_gl"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/advance"
+            android:id="@+id/btn_advance"
+			android:layout_alignParentLeft="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/create_pdf"
+            android:id="@+id/btn_create"
+			android:layout_alignParentLeft="true"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/javascript"
+            android:id="@+id/btn_js"
+			android:layout_alignParentLeft="true"/>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_below="@+id/layout_adv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:textColor="#FFFF0000"
+            android:text = "Since Android 6.0, some permission of Application may be disabled by default.\nYou shall check and enable storage permission of demo App in manually way.\nOtherwise, sdcard may not be accessable."
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </ScrollView>
+
+</RelativeLayout>
