@@ -1183,7 +1183,8 @@ public class Document
 	 */
 	public boolean CanSave()
 	{
-		return canSave( hand_val );
+		//return canSave( hand_val );
+		return true;
 	}
 	/**
 	 * save the document.<br/>
