@@ -3,10 +3,15 @@ package com.radaee.reader;
 import android.Manifest;
 import android.annotation.SuppressLint;
 import android.app.Activity;
+import android.app.DownloadManager;
+import android.content.BroadcastReceiver;
+import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.content.pm.PackageManager;
 import android.os.Build;
 import android.os.Bundle;
+import android.os.Environment;
 import android.support.v4.app.ActivityCompat;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -18,6 +23,7 @@ import android.widget.Toast;
 import com.radaee.util.RadaeePDFManager;
 
 import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 
 public class MainActivity extends Activity implements OnClickListener {
@@ -39,6 +45,29 @@ public class MainActivity extends Activity implements OnClickListener {
     private Button m_btn_about;
 
     private RadaeePDFManager mPDFManager;
+
+    private long downloadID;
+
+    File srcFile;
+    File destFile;
+
+    private BroadcastReceiver onDownloadComplete = new BroadcastReceiver() {
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            long id = intent.getLongExtra(DownloadManager.EXTRA_DOWNLOAD_ID, -1);
+            if (downloadID == id) {
+                Toast.makeText(MainActivity.this, "Download Completed", Toast.LENGTH_SHORT).show();
+                try {
+                    boolean isSuccess = DownloadUtils.copyFile(srcFile, destFile);
+                    if (isSuccess) {
+                        DownloadUtils.deleteFile(MainActivity.this, srcFile);
+                    }
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+    };
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -141,7 +170,21 @@ public class MainActivity extends Activity implements OnClickListener {
 			}
 		}
         else if( arg0 == m_btn_dl ) {
-            Toast.makeText(this, "download", Toast.LENGTH_SHORT).show();
+		    //pre download
+            File srcFile = new File(getExternalFilesDir(Environment.DIRECTORY_DOWNLOADS), "thestar.pdf");
+            File destFile = new File(getFilesDir(), "thestar.pdf");
+//
+//            final DownloadManager downloadManager = (DownloadManager) getSystemService(Context.DOWNLOAD_SERVICE);
+//            final long downloadId = DownloadUtils.downloadSamplePdf(downloadManager, srcFile, "http://www.radaeepdf.com/documentation/MRBrochoure.pdf");
+//
+//            onRegisterDownload(downloadId, srcFile, destFile);
+//            Toast.makeText(this, "download", Toast.LENGTH_SHORT).show();
+
+            //post download
+            if (destFile.exists())
+                mPDFManager.show(this, destFile.getAbsolutePath(), "");
+            else
+                Toast.makeText(this, "File x wujud lagi. Use pre download.", Toast.LENGTH_SHORT).show();
         }
 		else if( arg0 == m_btn_http ) {
 			String http_link = "http://www.radaeepdf.com/documentation/MRBrochoure.pdf";
@@ -186,4 +229,11 @@ public class MainActivity extends Activity implements OnClickListener {
             startActivity(intent);
         }
 	}
+
+    public void onRegisterDownload(final long downloadID, final File srcFile, final File destFile) {
+        this.downloadID = downloadID;
+        this.srcFile = srcFile;
+        this.destFile = destFile;
+        registerReceiver(onDownloadComplete, new IntentFilter(DownloadManager.ACTION_DOWNLOAD_COMPLETE));
+    }
 }
