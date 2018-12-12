@@ -125,7 +125,7 @@ public class MainActivity extends Activity implements OnClickListener {
             startActivity(intent);
         }
 		else if( arg0 == m_btn_asset ) {
-            mPDFManager.openFromAssets(this, "test.PDF", "");
+            mPDFManager.openFromAssets(this, "news.pdf", "");
 		}
 		else if( arg0 == m_btn_sdcard ) {
 			String pdf_path = "/sdcard/test.pdf";
