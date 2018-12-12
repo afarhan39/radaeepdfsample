@@ -1994,7 +1994,8 @@ public class PDFLayoutView extends View implements ILayoutView, LayoutListener {
         rect[2] = x + width; //right
         rect[3] = y + height; //bottom
 
-        page.AddAnnotRect(rect, vpage.ToPDFSize(Global.rect_annot_width), Global.rect_annot_color, Global.rect_annot_fill_color);
+        boolean isCreated = page.AddAnnotRect(rect, vpage.ToPDFSize(Global.rect_annot_width), Global.rect_annot_color, Global.rect_annot_fill_color);
+        Log.d("RadaeeDebug: ", "RadaeeDebug: " + isCreated);
         page.Close();
         m_layout.vRenderSync(vpage);
     }
