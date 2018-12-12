@@ -13,6 +13,7 @@ import android.print.PrintDocumentAdapter;
 import android.print.PrintDocumentInfo;
 import android.print.PrintManager;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -359,7 +360,9 @@ public class PDFViewController implements OnClickListener, SeekBar.OnSeekBarChan
 	}
 	public void OnBlankTapped()
 	{
-		m_view.PDFAddAnnotRect(0, 0, 300, 50, 2);
+        Log.d("RadaeeDebug", "IsOpened: " + m_view.PDFGetDoc().IsOpened());
+        Log.d("RadaeeDebug", "IsEncrypted: " + m_view.PDFGetDoc().IsEncrypted());
+        m_view.PDFAddAnnotRect(0, 0, 300, 50, 2);
 		m_view.PDFAddAnnotRect(100, 100, 300, 50, 1);
 		m_view.PDFAddAnnotRect(400, 400, 100, 100, 0);
 

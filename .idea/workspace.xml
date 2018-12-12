@@ -16,7 +16,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a50edd95-379c-48a9-88f7-a1404b17683e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/RDPDFReader/src/main/assets/2.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
@@ -28,31 +27,11 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_databinding_adapters_1_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_databinding_adapters_1_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_databinding_library_1_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_databinding_library_1_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_multidex_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_multidex_1_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_multidex_instrumentation_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_multidex_instrumentation_1_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_gcacace_signature_pad_1_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_gcacace_signature_pad_1_2_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDFReader/PDFReader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PDFReader/PDFReader.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDFReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PDFReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDPDFReader/RDPDFReader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RDPDFReader/RDPDFReader.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDPDFReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RDPDFReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ViewLib/ViewLib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ViewLib/ViewLib.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ViewLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ViewLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDPDFReader/src/main/java/com/radaee/reader/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/RDPDFReader/src/main/java/com/radaee/reader/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java" beforeDir="false" afterPath="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/RadaeePDFManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/RadaeePDFManager.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,8 +57,23 @@
       <file leaf-file-name="PDFLayoutView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="1999" column="28" selection-start-line="1999" selection-start-column="17" selection-end-line="1999" selection-end-column="28" />
+            <state relative-caret-position="202">
+              <caret line="1800" column="19" selection-start-line="1800" selection-start-column="19" selection-end-line="1800" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RadaeePDFManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/RadaeePDFManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="134" column="76" lean-forward="true" selection-start-line="134" selection-start-column="76" selection-end-line="134" selection-end-column="76" />
+              <folding>
+                <element signature="e#4865#4912#0" expanded="true" />
+                <element signature="e#14030#14090#0" expanded="true" />
+                <element signature="e#14183#14234#0" expanded="true" />
+                <element signature="e#14268#14311#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,8 +81,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RDPDFReader/src/main/java/com/radaee/reader/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="135" column="18" lean-forward="true" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+            <state relative-caret-position="452">
+              <caret line="142" column="69" selection-start-line="142" selection-start-column="69" selection-end-line="142" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,38 +90,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Page.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Page.java">
+      <file leaf-file-name="PDFNavAct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFNavAct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="2261" column="25" selection-start-line="2261" selection-start-column="25" selection-end-line="2261" selection-end-column="25" />
+            <state relative-caret-position="-1868">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Global.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Global.java">
+      <file leaf-file-name="PDFTopBar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFTopBar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+            <state relative-caret-position="-368">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GLView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/GLView.java">
+      <file leaf-file-name="PDFViewAct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFViewAct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="1906" column="27" selection-start-line="1906" selection-start-column="27" selection-end-line="1906" selection-end-column="27" />
+            <state relative-caret-position="60">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ViewLib/src/main/res/values/strings.xml">
+      <file leaf-file-name="BookmarkHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/BookmarkHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="43" />
+            <state relative-caret-position="-2993">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaptureSignature.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/CaptureSignature.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1328">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComboList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/ComboList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -135,54 +147,8 @@
       <file leaf-file-name="PDFViewController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFViewController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="361" column="8" selection-start-line="361" selection-start-column="8" selection-end-line="361" selection-end-column="8" />
-              <folding>
-                <element signature="e#8980#9119#0" expanded="true" />
-                <element signature="e#9118#9119#0" expanded="true" />
-                <element signature="e#9626#9891#0" expanded="true" />
-                <element signature="e#9890#9891#0" expanded="true" />
-                <element signature="e#9932#10253#0" expanded="true" />
-                <element signature="e#10252#10253#0" expanded="true" />
-                <element signature="e#26074#26096#0" expanded="true" />
-                <element signature="e#27531#27601#0" expanded="true" />
-                <element signature="e#28546#28611#0" expanded="true" />
-                <element signature="e#29879#29964#0" expanded="true" />
-                <element signature="e#30298#30321#0" expanded="true" />
-                <element signature="e#30588#30742#0" expanded="true" />
-                <element signature="e#30741#30742#0" expanded="true" />
-                <element signature="e#30793#30816#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PDFReaderAct.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PDFReader/src/main/java/com/radaee/reader/PDFReaderAct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="751" column="40" selection-start-line="751" selection-start-column="40" selection-end-line="751" selection-end-column="40" />
-              <folding>
-                <element signature="e#24381#24415#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PDFReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PDFReader/src/main/java/com/radaee/reader/PDFReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="229" column="26" selection-start-line="229" selection-start-column="26" selection-end-line="229" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Document.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Document.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3861">
-              <caret line="233" column="11" selection-start-line="233" selection-start-column="11" selection-end-line="233" selection-end-column="11" />
+            <state relative-caret-position="-10897">
+              <caret line="363" column="41" selection-start-line="363" selection-start-column="41" selection-end-line="363" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -198,6 +164,10 @@
       <find>encrypted</find>
       <find>cansave</find>
       <find>asset</find>
+      <find>blank</find>
+      <find>sdcard</find>
+      <find>openfrom</find>
+      <find>PDFAsset</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -4551,16 +4521,19 @@
         <option value="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/view/ILayoutView.java" />
         <option value="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Document.java" />
         <option value="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Page.java" />
-        <option value="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java" />
         <option value="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/GLView.java" />
+        <option value="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/DIB.java" />
         <option value="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFViewController.java" />
+        <option value="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java" />
         <option value="$PROJECT_DIR$/RDPDFReader/src/main/java/com/radaee/reader/MainActivity.java" />
+        <option value="$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/RadaeePDFManager.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1359" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -4600,7 +4573,37 @@
               <item name="ViewLib" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="radaee" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="pdf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PDFSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="ViewLib" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="radaee" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="pdf" type="462c0819:PsiDirectoryNode" />
+              <item name="adv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PDFSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="ViewLib" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="radaee" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="reader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PDFSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="ViewLib" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="radaee" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+              <item name="PDFLayoutOPStack.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="PDFSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="ViewLib" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="radaee" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PDFSample" type="1abcf292:AndroidViewProjectNode" />
@@ -4623,7 +4626,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="viewcon&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/reader/PDFViewController.java&#10;main&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/RDPDFReader/src/main/java/com/radaee/reader/MainActivity.java&#10;global&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/pdf/Global.java&#10;glview&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/reader/GLView.java&#10;docu&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/pdf/Document.java&#10;pdflayout&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java&#10;pdf&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java&#10;radaee&#9;PSI&#9;JAVA://com.radaee.util.RadaeePDFManager&#10;pdfla&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java&#10;pdfviewcon&#9;PSI&#9;JAVA://com.radaee.reader.PDFViewController&#10;ilayout&#9;PSI&#9;JAVA://com.radaee.view.ILayoutView&#10;pdfglla&#9;PSI&#9;JAVA://com.radaee.reader.PDFGLLayoutView&#10;pdflayou&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java" />
+    <property name="SearchEverywhereHistoryKey" value="mainac&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/RDPDFReader/src/main/java/com/radaee/reader/MainActivity.java&#10;pdfla&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java&#10;viewcon&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/reader/PDFViewController.java&#10;main&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/RDPDFReader/src/main/java/com/radaee/reader/MainActivity.java&#10;global&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/pdf/Global.java&#10;glview&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/reader/GLView.java&#10;docu&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/pdf/Document.java&#10;pdflayout&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java&#10;pdf&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java&#10;radaee&#9;PSI&#9;JAVA://com.radaee.util.RadaeePDFManager&#10;pdfviewcon&#9;PSI&#9;JAVA://com.radaee.reader.PDFViewController&#10;ilayout&#9;PSI&#9;JAVA://com.radaee.view.ILayoutView&#10;pdfglla&#9;PSI&#9;JAVA://com.radaee.reader.PDFGLLayoutView&#10;pdflayou&#9;FILE&#9;file:///Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="device.picker.selection" value="UBV0218612001474" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -4831,12 +4834,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544583314533</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[] cansave will always return true">
+      <created>1544585696980</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544585696980</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -4857,7 +4866,7 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" weight="0.32967034" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -4876,30 +4885,11 @@
     <MESSAGE value="[] added all lines provided by Emanuele" />
     <MESSAGE value="[] added log for annot" />
     <MESSAGE value="[] added news.pdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="[] added news.pdf" />
+    <MESSAGE value="[] cansave will always return true" />
+    <MESSAGE value="[] etc" />
+    <option name="LAST_COMMIT_MESSAGE" value="[] etc" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14340">
-          <caret line="1015" column="32" selection-start-line="1015" selection-start-column="32" selection-end-line="1015" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/RadaeePDFManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3315">
-          <caret line="246" column="44" selection-start-line="246" selection-start-column="44" selection-end-line="246" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31005">
-          <caret line="2263" column="23" selection-start-line="2263" selection-start-column="23" selection-end-line="2263" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/GLView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27495">
@@ -4925,22 +4915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4575">
           <caret line="359" column="8" selection-start-line="359" selection-start-column="8" selection-end-line="359" selection-end-column="8" />
-          <folding>
-            <element signature="e#8980#9119#0" expanded="true" />
-            <element signature="e#9118#9119#0" expanded="true" />
-            <element signature="e#9626#9891#0" expanded="true" />
-            <element signature="e#9890#9891#0" expanded="true" />
-            <element signature="e#9932#10253#0" expanded="true" />
-            <element signature="e#10252#10253#0" expanded="true" />
-            <element signature="e#26074#26096#0" expanded="true" />
-            <element signature="e#27531#27601#0" expanded="true" />
-            <element signature="e#28546#28611#0" expanded="true" />
-            <element signature="e#29879#29964#0" expanded="true" />
-            <element signature="e#30298#30321#0" expanded="true" />
-            <element signature="e#30588#30742#0" expanded="true" />
-            <element signature="e#30741#30742#0" expanded="true" />
-            <element signature="e#30793#30816#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4948,9 +4922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4968,24 +4939,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFGLLayoutView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/view/ILayoutView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2595">
           <caret line="178" column="27" selection-start-line="178" selection-start-column="27" selection-end-line="178" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/RadaeePDFManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="246" column="44" selection-start-line="246" selection-start-column="44" selection-end-line="246" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -5006,41 +4963,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Document.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3861">
-          <caret line="233" column="11" selection-start-line="233" selection-start-column="11" selection-end-line="233" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="2261" column="25" selection-start-line="2261" selection-start-column="25" selection-end-line="2261" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/GLView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="1906" column="27" selection-start-line="1906" selection-start-column="27" selection-end-line="1906" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="1999" column="28" selection-start-line="1999" selection-start-column="17" selection-end-line="1999" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Global.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ViewLib/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -5048,33 +4970,296 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/adv/Obj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3068">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/adv/Ref.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/BMDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-758">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/BMP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1418">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/DIB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1328">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1868">
+          <caret line="1390" column="53" lean-forward="true" selection-start-line="1390" selection-start-column="53" selection-end-line="1390" selection-end-column="53" />
+          <folding>
+            <element signature="e#22014#22015#0" expanded="true" />
+            <element signature="e#22043#22044#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Global.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7223">
+          <caret line="453" column="46" selection-start-line="453" selection-start-column="46" selection-end-line="453" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/HWriting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-488">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Ink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2018">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-713">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17322">
+          <caret line="223" column="37" selection-start-line="223" selection-start-column="37" selection-end-line="223" selection-end-column="37" />
+          <folding>
+            <element signature="e#46676#47542#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/PageContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3083">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-353">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/ResFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/ResForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/ResGState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/ResImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/Sign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/com/radaee/pdf/SuperDoc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/SuperDoc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="112" column="4" lean-forward="true" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/VNCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/VNBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/pdf/VNPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-413">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/GLCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/GLView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26745">
+          <caret line="1906" column="27" selection-start-line="1906" selection-start-column="27" selection-end-line="1906" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFBotBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFGLLayoutView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFGLViewAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFLayoutOPStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFNavAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1868">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFTopBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-368">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFViewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="361" column="8" selection-start-line="361" selection-start-column="8" selection-end-line="361" selection-end-column="8" />
+        <state relative-caret-position="-10897">
+          <caret line="363" column="41" selection-start-line="363" selection-start-column="41" selection-end-line="363" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFLayoutView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="1800" column="19" selection-start-line="1800" selection-start-column="19" selection-end-line="1800" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/BookmarkHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2993">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/CaptureSignature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1328">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/ComboList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/reader/PDFViewAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewLib/src/main/java/com/radaee/util/RadaeePDFManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="134" column="76" lean-forward="true" selection-start-line="134" selection-start-column="76" selection-end-line="134" selection-end-column="76" />
           <folding>
-            <element signature="e#8980#9119#0" expanded="true" />
-            <element signature="e#9118#9119#0" expanded="true" />
-            <element signature="e#9626#9891#0" expanded="true" />
-            <element signature="e#9890#9891#0" expanded="true" />
-            <element signature="e#9932#10253#0" expanded="true" />
-            <element signature="e#10252#10253#0" expanded="true" />
-            <element signature="e#26074#26096#0" expanded="true" />
-            <element signature="e#27531#27601#0" expanded="true" />
-            <element signature="e#28546#28611#0" expanded="true" />
-            <element signature="e#29879#29964#0" expanded="true" />
-            <element signature="e#30298#30321#0" expanded="true" />
-            <element signature="e#30588#30742#0" expanded="true" />
-            <element signature="e#30741#30742#0" expanded="true" />
-            <element signature="e#30793#30816#0" expanded="true" />
+            <element signature="e#4865#4912#0" expanded="true" />
+            <element signature="e#14030#14090#0" expanded="true" />
+            <element signature="e#14183#14234#0" expanded="true" />
+            <element signature="e#14268#14311#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RDPDFReader/src/main/java/com/radaee/reader/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="135" column="18" lean-forward="true" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+        <state relative-caret-position="452">
+          <caret line="142" column="69" selection-start-line="142" selection-start-column="69" selection-end-line="142" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
