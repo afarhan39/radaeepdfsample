@@ -57,11 +57,19 @@
         android:text="@string/open_sdcard" />
 
     <Button
-        android:id="@+id/btn_http"
+        android:id="@+id/btn_dl"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/btn_sdcard"
+        android:text="Download" />
+
+    <Button
+        android:id="@+id/btn_http"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/btn_dl"
         android:text="@string/open_http" />
 
     <LinearLayout

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/RDPDFReader/build/intermediates/res/merged/debug/layout_pop_more.xml.flat",
-        "source": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/build/intermediates/packaged_res/debug/layout/pop_more.xml"
-    },
-    {
         "merged": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/RDPDFReader/build/intermediates/res/merged/debug/layout_dlg_text.xml.flat",
         "source": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/build/intermediates/packaged_res/debug/layout/dlg_text.xml"
+    },
+    {
+        "merged": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/RDPDFReader/build/intermediates/res/merged/debug/layout_pop_more.xml.flat",
+        "source": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/build/intermediates/packaged_res/debug/layout/pop_more.xml"
     },
     {
         "merged": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/RDPDFReader/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
@@ -68,12 +68,12 @@
         "source": "/Users/amirf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3476330fefb5f77e41c91d697adc314c/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/RDPDFReader/build/intermediates/res/merged/debug/raw_cousine.flat",
-        "source": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/build/intermediates/packaged_res/debug/raw/cousine"
-    },
-    {
         "merged": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/RDPDFReader/build/intermediates/res/merged/debug/drawable_ic_bookmarks.png.flat",
         "source": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/build/intermediates/packaged_res/debug/drawable/ic_bookmarks.png"
+    },
+    {
+        "merged": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/RDPDFReader/build/intermediates/res/merged/debug/raw_cousine.flat",
+        "source": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/ViewLib/build/intermediates/packaged_res/debug/raw/cousine"
     },
     {
         "merged": "/Users/amirf/Downloads/PDFViewer3.50_Android Studio/PDFSample/RDPDFReader/build/intermediates/res/merged/debug/drawable_btn_search.png.flat",

@@ -131,6 +131,7 @@ id btn_asset
 id btn_back
 id btn_create
 id btn_curl
+id btn_dl
 id btn_edit
 id btn_file
 id btn_find

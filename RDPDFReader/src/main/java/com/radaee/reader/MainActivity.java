@@ -26,6 +26,7 @@ public class MainActivity extends Activity implements OnClickListener {
     private Button m_btn_pager;
 	private Button m_btn_asset;
 	private Button m_btn_sdcard;
+	private Button m_btn_dl;
 	private Button m_btn_http;
     private Button m_btn_gl;
     private Button m_btn_glfile;
@@ -53,6 +54,7 @@ public class MainActivity extends Activity implements OnClickListener {
         m_btn_pager = (Button)layout.findViewById(R.id.btn_pager);
 		m_btn_asset = (Button)layout.findViewById(R.id.btn_asset);
 		m_btn_sdcard = (Button)layout.findViewById(R.id.btn_sdcard);
+		m_btn_dl = (Button)layout.findViewById(R.id.btn_dl);
 		m_btn_http = (Button)layout.findViewById(R.id.btn_http);
         m_btn_gl = (Button)layout.findViewById(R.id.btn_gl);
         m_btn_565 = (Button)layout.findViewById(R.id.btn_565);
@@ -67,6 +69,7 @@ public class MainActivity extends Activity implements OnClickListener {
         m_btn_pager.setOnClickListener(this);
 		m_btn_asset.setOnClickListener(this);
 		m_btn_sdcard.setOnClickListener(this);
+		m_btn_dl.setOnClickListener(this);
 		m_btn_http.setOnClickListener(this);
         m_btn_gl.setOnClickListener(this);
         m_btn_565.setOnClickListener(this);
@@ -137,6 +140,9 @@ public class MainActivity extends Activity implements OnClickListener {
                 Toast.makeText(this, getString(R.string.file_not_exist) + pdf_path, Toast.LENGTH_SHORT).show();
 			}
 		}
+        else if( arg0 == m_btn_dl ) {
+            Toast.makeText(this, "download", Toast.LENGTH_SHORT).show();
+        }
 		else if( arg0 == m_btn_http ) {
 			String http_link = "http://www.radaeepdf.com/documentation/MRBrochoure.pdf";
             //String http_link = "http://www.radaeepdf.com/documentation/oversize_pdf_test_0_opt.pdf";
